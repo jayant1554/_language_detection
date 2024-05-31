@@ -1,0 +1,7 @@
+flask
+scikit-learn==1.4.2
+pandas
+request
+render_templates
+
+
